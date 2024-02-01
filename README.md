@@ -1,3 +1,3 @@
 # Todo List
 
-#### A task list that you can check off completed tasks and remove.
+##### Make a Todo List and check off complete task and remove if needed. All changes saved to local memory.
