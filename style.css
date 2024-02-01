@@ -1,0 +1,50 @@
+#toDoListSection {
+    padding: 20px;
+    border: 20px blueviolet solid;
+    border-radius: 10px;;
+    background-color: lightgoldenrodyellow;
+}
+
+#toDoList {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    display: flex;
+    border-bottom: grey .5px solid;
+
+}
+
+.checkComplete {
+    margin: 10px;
+    color: green;
+    width: 40px;
+}
+
+span {
+    margin: 10px;
+    width: 500px;
+}
+
+.remove-button {
+    margin: 10px;
+}
+
+h1 {
+    font-size: 4em;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+#toDo {
+    width: 50%;
+    height: 30px;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
